@@ -19,4 +19,6 @@ git push
 •commit = save checkpoint  
 •push = upload to GitHub
 
-Put two spaces at the end of hte line for a singel linebreak!  
+Put two spaces at the end of hte line for a singel linebreak!
+.gitignore = “files Git should ignore”
+
